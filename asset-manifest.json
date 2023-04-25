@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.e9ab2c37.css",
-    "main.js": "./static/js/main.ce37b9f6.js",
+    "main.css": "./static/css/main.ce0fc1c6.css",
+    "main.js": "./static/js/main.6016da8f.js",
     "static/js/787.53dc5ee1.chunk.js": "./static/js/787.53dc5ee1.chunk.js",
     "static/media/primera_cita.png": "./static/media/primera_cita.76a22fe7b8904bf89b43.png",
     "static/media/engagement-1.png": "./static/media/engagement-1.3d11cec761c200a01fa9.png",
@@ -57,12 +57,12 @@
     "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
     "index.html": "./index.html",
     "static/media/Donalia.eot": "./static/media/Donalia.31d6cfe0d16ae931b73c.eot",
-    "main.e9ab2c37.css.map": "./static/css/main.e9ab2c37.css.map",
-    "main.ce37b9f6.js.map": "./static/js/main.ce37b9f6.js.map",
+    "main.ce0fc1c6.css.map": "./static/css/main.ce0fc1c6.css.map",
+    "main.6016da8f.js.map": "./static/js/main.6016da8f.js.map",
     "787.53dc5ee1.chunk.js.map": "./static/js/787.53dc5ee1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9ab2c37.css",
-    "static/js/main.ce37b9f6.js"
+    "static/css/main.ce0fc1c6.css",
+    "static/js/main.6016da8f.js"
   ]
 }
